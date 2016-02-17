@@ -1,0 +1,28 @@
+name: Alan Becomes a Writer
+favicon: null
+layout_spectrum: 0.0812306001316756
+typography_spectrum: 0.4073889162391424
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.061874385457485914
+  lightness: 0.46548778051510453
+  saturation: 0.8177023811731488
+  rhythmicContrast: 0.74238923471421
+purpose: []
