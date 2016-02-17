@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Alan Becomes a Writer]]></title>
         <description><![CDATA[Alan Becomes a Writer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.alanlin.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 02:23:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 23:51:45 GMT</lastBuildDate>
+        <atom:link href="http://www.alanlin.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined9871f81e-b437-4de9-b85a-49eeae89a113/index.html</link>
+            <link>http://www.alanlin.io/312d0788-1f90-4615-b52c-b01f341b29b6/index.html</link>
+            <guid isPermaLink="false">312d0788-1f90-4615-b52c-b01f341b29b6</guid>
+            <pubDate>Wed, 17 Feb 2016 23:51:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello! My name is Alan,  and I hope to become a writer. I mean "writer" in the strictest sense of the word: one who writes. I promise to deliver at least one line to you all every day in the hopes that I'll get better at it. Hopefully you'll enjoy and if you'd like to join me, I think that would be pretty cool!</p>]]></description>
+            <link>http://www.alanlin.io/9871f81e-b437-4de9-b85a-49eeae89a113/index.html</link>
             <guid isPermaLink="false">9871f81e-b437-4de9-b85a-49eeae89a113</guid>
             <pubDate>Wed, 17 Feb 2016 02:23:48 GMT</pubDate>
         </item>
