@@ -4,8 +4,14 @@
         <description><![CDATA[Alan Becomes a Writer]]></description>
         <link>http://www.alanlin.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 06:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 08:27:54 GMT</lastBuildDate>
         <atom:link href="http://www.alanlin.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://www.alanlin.io/8e55f2a2-efa2-4b64-b9e3-508595a626e9/index.html</link>
+            <guid isPermaLink="false">8e55f2a2-efa2-4b64-b9e3-508595a626e9</guid>
+            <pubDate>Sun, 21 Feb 2016 08:27:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>What can I do to maintain a coherent narrative?</p>]]></description>
